@@ -20,6 +20,9 @@
   color: black;
 }
 
+.wrapper {
+  background-color: black; 
+}
 /* .Jumbotron {
   height: 250px;
 } */
